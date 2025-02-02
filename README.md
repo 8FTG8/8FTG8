@@ -63,19 +63,17 @@
     />
 </p>
 
-<br>
-
 <h3 align="center">📊 Estatísticas</h3>
 
 <p align="center">
     <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=8FTG8&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=8FTG8&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"
     />
     <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=8FTG8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=8FTG8&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=10"
     />
 </p>
