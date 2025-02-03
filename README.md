@@ -74,6 +74,6 @@
     <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=8FTG8&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=10"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=8FTG8&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=8"
     />
 </p>
