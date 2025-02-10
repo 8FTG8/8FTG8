@@ -69,7 +69,14 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
     />
     <img 
-        alt="Git"
+        alt="Figma"
+        title="Figma" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    />
+    <img 
+        alt="Moodle"
         title="Git" 
         width="30px" 
         style="padding-right: 10px;" 
