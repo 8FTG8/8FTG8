@@ -6,23 +6,25 @@
 
 Olá, seja bem-vindo!
 
-Meu nome é Felipe Granvile, tenho 20 anos e sou natural de São Paulo. Atualmente, estudo Análise e Desenvolvimento de Sistemas na Fatec RP. Sou apaixonado por tecnologia e pelas inúmeras possibilidades que ela oferece – desde ajudar pessoas e otimizar o uso dos recursos naturais até realizar feitos extraordinários, como levar o ser humano à Lua ou até fazer um foguete dar ré!🚀.
+Meu nome é Felipe Granvile, tenho 20 anos e sou natural de São Paulo. Atualmente, estudo Análise e Desenvolvimento de Sistemas na Fatec RP. Sou apaixonado por tecnologia e pelas inúmeras possibilidades que ela oferece – desde ajudar pessoas e otimizar o uso dos recursos naturais até realizar feitos extraordinários, como levar o ser humano à Lua ou até fazer foguete dar ré!🚀.
 
-Meu objetivo é aprofundar meus conhecimentos e colocar a mão no código, desenvolvendo aplicativos funcionais e aplicando técnicas eficientes de coleta, processamento e análise de dados. Acredito que essas duas áreas se complementam perfeitamente e refletem minha identidade e paixão pelo que faço.
+Meu objetivo é ampliar meus conhecimentos e colocar a mão no código, desenvolvendo aplicativos objetivos e funcionais. Na área de data science, desejo aplicar técnicas eficientes de coleta, processamento e análise de dados. Acredito que essas duas áreas se complementam perfeitamente, refletindo minha identidade e paixão pelo que faço.
+
+Além disso, sou entusiasta de blockchain e NFTs, tecnologias que estão abrindo caminho para a nova era da Web3!
 
 <p align="center">
     <a href="https://github.com/8FTG8?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
+            alt="Estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/8FTG8?color=F7721A&style=for-the-badge&labelColor=E75C00&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/8FTG8?color=F7721A&style=for-the-badge&labelColor=E75C00&logo=star&label=Estrelas"
         />
     </a>
     <a href="https://github.com/8FTG8?tab=followers">
         <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/8FTG8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/8FTG8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
