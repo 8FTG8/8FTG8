@@ -12,6 +12,7 @@ Meu objetivo é ampliar meus conhecimentos e colocar a mão no código, desenvol
 
 Além disso, sou entusiasta em blockchain, NFTs (Non-Fungible Tokens) e outras tecnologias que estão abrindo caminho para a nova era da Web3!
 
+<!--
 <p align="center">
     <a href="https://github.com/8FTG8?tab=repositories&sort=stargazers">
         <img 
@@ -28,6 +29,7 @@ Além disso, sou entusiasta em blockchain, NFTs (Non-Fungible Tokens) e outras t
         />
     </a>
 </p>
+-->
 
 ---
 
