@@ -6,7 +6,9 @@ Meu objetivo é ampliar meus conhecimentos e colocar a mão no código, desenvol
 
 Além disso, sou entusiasta em blockchain, NFTs (Non-Fungible Tokens) e outras tecnologias que estão abrindo caminho para a nova era da Web3!
 
-### Projetos relevantes
+## Projetos relevantes
+
+[**Vending Machine**](https://github.com/8FTG8/VendingMachine) — Foi meu primeiro desafio na área de desenvolvimento, ainda no 1º semestre da falculdade. É a simulação de uma máquina de vendas automática implementado totalmente em C++. O programa permite operações como listagem de produtos, compra de produtos e gerenciamento de estoque.
 
 <p align="left">
     <img 
