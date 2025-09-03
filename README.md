@@ -6,85 +6,8 @@ Meu objetivo é ampliar meus conhecimentos e colocar a mão no código, desenvol
 
 Além disso, sou entusiasta em blockchain, NFTs (Non-Fungible Tokens) e outras tecnologias que estão abrindo caminho para a nova era da Web3!
 
-<p align="center">
-    <a href="https://github.com/8FTG8?tab=repositories&sort=stargazers">
-        <img 
-            alt="Estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/8FTG8?color=F7721A&style=for-the-badge&labelColor=E75C00&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/8FTG8?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/8FTG8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+### Projetos relevantes
 
----
-
-<h3 align="center">🚀 Linguagens & Tecnologias</h3>
-
-<p align="center">
-    <img
-        alt="C++"
-        title="C++" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    />
-    <img
-        alt="Python"
-        title="Python" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    />
-    <img 
-        alt="Dart"
-        title="Dart" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
-    />
-    <img
-        alt="Flutter"
-        title="Flutter" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-    />
-    <img 
-        alt="Firebase"
-        title="Firebase" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
-    />
-    <img 
-        alt="Git"
-        title="Git" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-    />
-    <img 
-        alt="Figma"
-        title="Figma" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-    />
-    <img 
-        alt="Moodle"
-        title="Git" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-original.svg"
-    />
-</p>
 
 <h3 align="center">📊 Estatísticas</h3>
 
