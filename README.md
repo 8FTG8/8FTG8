@@ -9,7 +9,7 @@ Além disso, sou entusiasta em blockchain, NFTs (Non-Fungible Tokens) e outras t
 ## Projetos relevantes
 
 [**Vending Machine**](https://github.com/8FTG8/VendingMachine) — Foi meu primeiro desafio na área de desenvolvimento, ainda no 1º semestre da falculdade. É a simulação de uma máquina de vendas automática implementado totalmente em C++. O programa permite operações como listagem de produtos, compra de produtos e gerenciamento de estoque.
-
+<br></br>
 <p align="left">
     <img 
         alt="GitHub Stats" 
