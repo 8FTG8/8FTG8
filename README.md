@@ -1,12 +1,6 @@
-<h1 align="center">🧑🏻‍💻 Felipe Granvile</h1>
+<h1 align="left"> Felipe Granvile</h1>
 
-<p align="center">
-    <strong><code>Mobile Developer & Data Analyst</code></strong>
-</p>
-
-Olá, seja bem-vindo!
-
-Meu nome é Felipe Granvile, tenho 20 anos e sou natural de São Paulo. Atualmente, estudo Análise e Desenvolvimento de Sistemas na Fatec RP. Sou apaixonado por tecnologia e pelas inúmeras possibilidades que ela oferece – desde ajudar pessoas e otimizar o uso dos recursos naturais até realizar feitos extraordinários, como levar o ser humano à Lua ou até fazer foguete dar ré! 🚀
+Atualmente, estudo Análise e Desenvolvimento de Sistemas na Fatec RP. Sou apaixonado por tecnologia e pelas inúmeras possibilidades que ela oferece – desde ajudar pessoas e otimizar o uso dos recursos naturais até realizar feitos extraordinários, como levar o ser humano à Lua ou até fazer foguete dar ré! 🚀
 
 Meu objetivo é ampliar meus conhecimentos e colocar a mão no código, desenvolvendo aplicativos objetivos e funcionais. Na área de data science, desejo aplicar técnicas eficientes de coleta, processamento e análise de dados. Acredito que essas duas áreas se complementam perfeitamente, refletindo minha identidade e paixão pelo que faço.
 
