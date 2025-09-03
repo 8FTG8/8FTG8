@@ -8,15 +8,7 @@ Além disso, sou entusiasta em blockchain, NFTs (Non-Fungible Tokens) e outras t
 
 ### Projetos relevantes
 
-
-<h3 align="center">📊 Estatísticas</h3>
-
-<p align="center">
-    <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=8FTG8&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"
-    />
+<p align="left">
     <img 
         alt="GitHub Stats" 
         height="200" 
