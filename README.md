@@ -1,12 +1,11 @@
 # 🚀 Felipe Granvile
 **`Mobile Developer & Data Analyst`**
 
-[![Stars](https://custom-icon-badges.demolab.com/github/stars/8FTG8?color=F7721A&style=for-the-badge&labelColor=E75C00&logo=star&label=Stars)](https://github.com/8FTG8?tab=repositories&sort=stargazers)
-[![Followers](https://custom-icon-badges.demolab.com/github/followers/8FTG8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white)](https://github.com/8FTG8?tab=followers)
+[![Stars](https://custom-icon-badges.demolab.com/github/stars/8FTG8?color=F7721A&style=for-the-badge&labelColor=E75C00&logo=star&label=Stars)](https://github.com/8FTG8?tab=repositories&sort=stargazers) [![Followers](https://custom-icon-badges.demolab.com/github/followers/8FTG8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white)](https://github.com/8FTG8?tab=followers)
 
 ---
 
-Estudo Análise e Desenvolvimento de Sistemas na Fatec RP e construo produtos Flutter de ponta a ponta — do app ao backend serverless, passando por integrações de pagamento e mensageria que rodam em produção com clientes reais.
+Formado em Análise e Desenvolvimento de Sistemas pela Fatec RP, construo produtos Flutter de ponta a ponta — do app ao backend serverless, passando por integrações de pagamento e mensageria que rodam em produção com clientes reais.
 
 Meu foco atual é sair do "app que funciona" para o "sistema que sustenta um negócio": multi-tenancy, cobrança recorrente, segurança de dados e observabilidade. Na área de data science, aplico esse mesmo cuidado à coleta, ao processamento e à análise de dados — vejo as duas frentes como complementares, não paralelas.
 
@@ -14,7 +13,7 @@ Também sou entusiasta em blockchain, NFTs e nas demais tecnologias que estão p
 
 ## 🛠️ Linguagens & Tecnologias
 
-![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg) ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,python,nodejs,js,firebase,git)
 
 **Também no dia a dia:** Riverpod & Provider (gerenciamento de estado) · GoRouter · Cloud Functions v2 · Cloud Firestore & Storage · Firestore/Storage Security Rules · SQFlite (offline-first) · Jest & Firebase Rules Unit Testing · integrações de API (ASAAS, Z-API/WhatsApp)
 
