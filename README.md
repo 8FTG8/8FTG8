@@ -26,8 +26,3 @@ Também sou entusiasta em blockchain, NFTs e nas demais tecnologias que estão p
 **HealthCaree** `(em desenvolvimento)` — Software de gestão para clínicas médicas em Flutter + Firebase: agenda, cadastro de pacientes, controle financeiro e relatórios exportáveis em PDF, com interface desktop-first responsiva construída sobre Material Design 3 e um design system próprio (tokens de espaçamento, raio e sombra).
 
 **[Vending Machine](https://github.com/8FTG8/VendingMachine)** — Meu primeiro desafio de desenvolvimento, ainda no 1º semestre da faculdade: simulação de máquina de vendas automática em C++, com listagem de produtos, compra e gerenciamento de estoque.
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8FTG8&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8FTG8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8)
