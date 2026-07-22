@@ -1,7 +1,7 @@
 # 🚀 Felipe Granvile
 **`Mobile Developer & Data Analyst`**
 
-[![Stars](https://custom-icon-badges.demolab.com/github/stars/8FTG8?color=F7721A&style=for-the-badge&labelColor=E75C00&logo=star&label=Stars)](https://github.com/8FTG8?tab=repositories&sort=stargazers) [![Followers](https://custom-icon-badges.demolab.com/github/followers/8FTG8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white)](https://github.com/8FTG8?tab=followers) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-tavares-granvile/)
+[![Stars](https://custom-icon-badges.demolab.com/github/stars/8FTG8?color=F7721A&style=for-the-badge&labelColor=E75C00&logo=star&label=Stars)](https://github.com/8FTG8?tab=repositories&sort=stargazers) [![Followers](https://custom-icon-badges.demolab.com/github/followers/8FTG8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white)](https://github.com/8FTG8?tab=followers) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-tavares-granvile/) [![Caree](https://custom-icon-badges.demolab.com/badge/Caree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://caree.com.br/)
 
 ---
 
